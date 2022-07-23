@@ -15,7 +15,7 @@ _&#8213; https://bee-up.omilab.org/activities/bee-up/_
 
 ## Intro
 This repository serves as an alternative installation approach for Bee-Up. Whenever you need to use Bee-Up you can 
-simply open your browser and visit `https://localhost:8080/vnc.html`.
+simply open your browser and visit `http://localhost:8080/vnc.html`.
 
 ## Installation
 1) Clone this repository
